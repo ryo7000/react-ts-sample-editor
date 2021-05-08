@@ -1,3 +1,7 @@
+# Effective React Hooks 第3章
+
+https://booth.pm/ja/items/1477000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
